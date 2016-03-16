@@ -1,0 +1,5 @@
+{
+		"ImportPath": "github.com/gchangchen/go-heroku",
+		"GoVersion": "go1.6",
+		"Deps": []
+}
